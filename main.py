@@ -1,6 +1,6 @@
 # pip install google-genai
 
-# Create API Key Here: https://aistudio.google.com/app/apikey
+# Create API Key Here: https://aistudio.google.com/app/api-keys
 
 from google import genai
 from google.genai import types
